@@ -1,11 +1,3 @@
-:root {
-  --soft-blue: 215 51% 70%;
-  --cyan: 178 100% 50%;
-  --main-blue: 217 54% 11%;
-  --card-blue: 216 50% 16%;
-  --line-blue: 215 32% 27%;
-}
-
 .background {
   background: hsl(var(--main-blue));
 }
