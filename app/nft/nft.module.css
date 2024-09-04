@@ -1,0 +1,32 @@
+:root {
+  --soft-blue: 215 51% 70%;
+  --cyan: 178 100% 50%;
+  --main-blue: 217 54% 11%;
+  --card-blue: 216 50% 16%;
+  --line-blue: 215 32% 27%;
+}
+
+.background {
+  background: hsl(var(--main-blue));
+}
+
+.card {
+  background: hsl(var(--card-blue));
+}
+
+.text {
+  color: hsl(var(--soft-blue));
+}
+
+.eth {
+  color: hsl(var(--cyan));
+}
+.separator {
+  background: hsl(var(--line-blue));
+}
+.cyan:hover {
+  color: hsl(var(--cyan));
+}
+.background_cyan {
+  background: hsl(var(--cyan));
+}
