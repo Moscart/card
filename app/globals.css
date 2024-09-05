@@ -57,6 +57,11 @@
     --blog-yellow: 47 88% 63%;
     --blog-light-gray: 0 0% 42%;
     --blog-dark-gray: 0 0% 7%;
+
+    /* QR Code Variable */
+    --qr-dark-slate: 218 44% 22%;
+    --qr-slate: 216 15% 48%;
+    --qr-light-slate: 212 45% 89%;
   }
   .dark {
     --background: 240 10% 3.9%;
