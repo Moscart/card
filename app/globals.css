@@ -36,6 +36,22 @@
     --main-blue: 217 54% 11%;
     --card-blue: 216 50% 16%;
     --line-blue: 215 32% 27%;
+
+    /* Result Summary Variable */
+    --light-red: 0 100% 67%;
+    --orange-yellow: 39 100% 56%;
+    --green-teal: 166 100% 37%;
+    --cobalt-blue: 234 85% 45%;
+
+    --light-slate-blue: 252 100% 67%;
+    --light-royal-blue: 241 81% 54%;
+
+    --violet-blue: 256 72% 46%;
+    --persian-blue: 241 72% 46%;
+
+    --pale-blue: 221 100% 96%;
+    --light-lavender: 241 100% 89%;
+    --dark-gray-blue: 224 30% 27%;
   }
   .dark {
     --background: 240 10% 3.9%;
