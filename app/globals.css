@@ -62,6 +62,14 @@
     --qr-dark-slate: 218 44% 22%;
     --qr-slate: 216 15% 48%;
     --qr-light-slate: 212 45% 89%;
+
+    /* Order Summary Variable */
+    --order-pale-blue: 225 100% 94%;
+    --order-bright-blue: 245 75% 52%;
+
+    --order-very-pale-blue: 225 100% 98%;
+    --order-desaturated-blue: 224 23% 55%;
+    --order-dark-blue: 223 47% 23%;
   }
   .dark {
     --background: 240 10% 3.9%;
