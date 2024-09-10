@@ -70,6 +70,14 @@
     --order-very-pale-blue: 225 100% 98%;
     --order-desaturated-blue: 224 23% 55%;
     --order-dark-blue: 223 47% 23%;
+
+    /* Advice Generator Variable */
+    --advice-light-cyan: 193 38% 86%;
+    --advice-neon-green: 150 100% 66%;
+
+    --advice-grayish-blue: 217 19% 38%;
+    --advice-dark-grayish: 217 19% 24%;
+    --advice-dark-blue: 218 23% 16%;
   }
   .dark {
     --background: 240 10% 3.9%;
